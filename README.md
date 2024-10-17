@@ -1,6 +1,4 @@
-<img src="LOGO_O.png" alt="Descrição da imagem" width="200"/>
-
-## ∞ infinite Coders
+## ∞ Infinite Coders
 
 Bem-vindo ao repositório oficial do **projeto final do curso técnico de programador informático**.
 
@@ -27,3 +25,9 @@ Além do projeto final, este repositório contém uma variedade de projetos dese
 - **COBOL**: Trabalhámos também em projetos em **COBOL**, uma linguagem tradicional ainda utilizada em sistemas legados.
 
 Este repositório reflete a amplitude e profundidade dos conhecimentos adquiridos ao longo do curso, desde as primeiras etapas de programação até ao desenvolvimento de soluções complexas em várias linguagens e tecnologias.
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="LOGO_O.png" align="right" alt="Descrição da imagem" width="200"/>

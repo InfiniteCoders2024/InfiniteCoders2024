@@ -1,4 +1,6 @@
-∞ infinite Coders
+<img src="LOGO_O.png" alt="Descrição da imagem" width="200"/>
+
+## ∞ infinite Coders
 
 Bem-vindo ao repositório oficial do **projeto final do curso técnico de programador informático**.
 
